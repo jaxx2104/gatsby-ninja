@@ -54,12 +54,12 @@
     "eslint-plugin-react": "7.22.0",
     "eslint-plugin-react-hooks": "4.2.0",
     "gh-pages": "3.1.0",
-    "husky": "5.1.3",
-    "lint-staged": "10.5.4",
+    "husky": "6.0.0",
+    "lint-staged": "11.0.0",
     "prettier": "2.2.1",
-    "textlint": "11.8.2",
+    "textlint": "12.0.0",
     "textlint-rule-preset-ja-spacing": "2.0.2",
-    "textlint-rule-preset-japanese": "5.0.0",
+    "textlint-rule-preset-japanese": "6.0.1",
     "typescript": "4.2.3"
   },
   "keywords": [
